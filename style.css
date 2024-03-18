@@ -15,7 +15,7 @@ body{
     align-items: center;
     position: sticky;
     top: 0;
-    width: 1520px;
+    width: 100%;
     box-decoration-break: slice;
     
 }
@@ -64,7 +64,7 @@ button:focus ~ .dd{
     padding: 20px;
     animation: blink 1s infinite;
     text-shadow: 0px 1px 2px rgb(235, 235, 235);
-    width: 1500px;
+    width: 100%;
     background-color: rgba(20, 20, 20, 0.950);
     
 }
@@ -76,7 +76,7 @@ button:focus ~ .dd{
     padding: 20px;
     color: rgb(235, 235, 235);
     text-shadow: 0px 1px 2px rgb(235, 235, 235);
-    width: 1500px;
+    width: 100%;
     background-color: rgba(20, 20, 20, 0.950);
     
 }
@@ -135,7 +135,7 @@ button:focus ~ .dd{
     padding: 50px;
     color: white;
     text-decoration: double 1px;
-    width: 1500px;
+    width: 100%;
     background-color: rgb(20, 20, 20, 0.950);
     margin-top: -55px;
 }
@@ -146,7 +146,7 @@ button:focus ~ .dd{
     padding: 50px;
     color: white;
     text-decoration: double 1px;
-    width: 1500px;
+    width: 100%;
     background-color: rgb(20, 20, 20, 0.950);
     margin-top: -55px;
     margin-bottom: -15px ;
